@@ -1,2 +1,11 @@
-# graphic-tee-bookmarks
-A minimal public graphic tee brand bookmark board
+﻿# GRAPHIC TEE INDEX
+
+공개용 그래픽 티셔츠 브랜드 북마크. 단일 `index.html` 파일로 동작합니다.
+
+- 검색, 카테고리 필터, 북마크 추가/편집, 브라우저 메모 자동 저장
+- JSON 백업/가져오기
+- 공유 링크(메모 포함 스냅샷이며 실시간 동기화 아님)
+- 타 브랜드 상품 이미지는 외부 사이트에 호스팅된 이미지입니다. 이미지 차단 시 글자 표지가 대신 표시됩니다.
+
+> 개인 메모는 브라우저 localStorage에 저장됩니다. 모두에게 공유하는 댓글 서버가 아닙니다. 공개된 저장소에는 운영자 개인 메모가 들어가지 않습니다.
+
